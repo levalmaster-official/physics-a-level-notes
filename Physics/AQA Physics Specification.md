@@ -226,3 +226,65 @@ Appreciation of energy conservation issues in the context of ethical transport d
 ##### 4.2.2: The Young modulus
 $$\text{Young modulus}= \frac{\text{tensile stress}}{\text{tensile strain}} = \frac{FL} {A∆L}$$ Use of stress–strain graphs to find the Young modulus. (One simple method of measurement is required.)
 ### Module 5 - Electricity
+#### 5.1: Current electricity
+
+##### 5.1.1: Basics of electricity
+
+Electric current as the rate of flow of charge; potential difference as work done per unit charge.
+$$
+I = \frac{\Delta Q}{\Delta t},\quad V=\frac{W}{Q}
+$$
+Resistance defined as $R=\frac{V}{I}$
+##### 5.1.2: Current-voltage characteristics
+
+For an ohmic conductor, semiconductor diode, and filament lamp.
+
+Ohm's law as a special case where $I \propto V$ under constant physical conditions.
+
+Unless specifically stated in questions, ammeters and voltmeters should be treated as ideal (having zero and infinite resistance respectively).
+
+Questions can be set where either $I$ or $V$ is on the horizontal axis of the characteristic graph.
+##### 5.1.3: Resistivity
+Resistivity, $\rho=\frac{RA}{L}$
+
+Description of the qualitative effect of temperature on the resistance of metal conductors and thermistors.
+- Only negative temperature coefficient (NTC) thermistors will be considered.
+- Applications of thermistors to include temperature sensors and resistance–temperature graphs.
+
+Superconductivity as a property of certain materials which have zero resistivity at and below a critical temperature which depends on the material.
+- Applications of superconductors to include the production of strong magnetic fields and the reduction of energy loss in transmission of electric power.
+- Critical field will not be assessed.
+
+##### 5.1.4: Circuits
+Resistors:
+$$
+\begin{aligned}
+\text{in series,}\quad R_{T} =R_{1}+R_{2}+R_{3}+\dots \\[3mm]
+\text{in parallel,}\quad \frac{1}{R_{T}}=\frac{1}{R_{1}}+\frac{1}{R_{2}}+\frac{1}{R_{3}}+\dots
+
+\end{aligned}
+$$
+$$
+\begin{aligned}
+\text{Energy and power equations:}\ E=IVt;\\[3mm]
+P=IV = I^{2}R = \frac{V^{2}}{R}
+\end{aligned}
+$$
+The relationships between currents, voltages and resistances in series and parallel circuits, including cells in series and identical cells in parallel.
+
+Conservation of charge and conservation of energy in DC circuits.
+
+##### 5.1.5: Potential divider
+The potential divider used to supply constant or variable potential difference from a power supply.
+
+The use of the potentiometer as a measuring instrument is not required. 
+
+Examples should include the use of variable resistors, thermistors, and light dependent resistors (LDR) in the potential divider.
+
+##### 5.1.6: Electromotive force and internal resistance
+$$
+\epsilon = \frac{E}{Q}, \quad \epsilon=I(R+r)
+$$
+Terminal potential difference; electromotive force (emf)
+
+Students will be expected and perform calculations for circuits in which the internal resistance of the supply is not negligible.
